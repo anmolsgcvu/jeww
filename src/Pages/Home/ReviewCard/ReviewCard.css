@@ -1,0 +1,33 @@
+/* .review-card{
+    width: 100%;
+    height: 310px;
+    overflow: hidden;
+    box-shadow:0 0 4px 5px rgb(0,0,0,0.3);
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    transition: all 0.2s;
+} */
+.review-card img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.review {
+    color: orange;
+}
+
+
+blockquote {
+    background: rgb(236, 233, 233);
+    padding: 15px 5px;
+    border-left: 4px solid #c29958;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.bg-review {
+    background: rgb(245, 245, 245);
+}

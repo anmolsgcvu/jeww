@@ -1,0 +1,13 @@
+.info-container {
+    width: 100%;
+    height: 80vh;
+    background: url('https://wpbingosite.com/wordpress/mojuri/wp-content/uploads/2021/08/slider-10-8.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 100px;
+    color: rgb(114, 112, 112);
+}
